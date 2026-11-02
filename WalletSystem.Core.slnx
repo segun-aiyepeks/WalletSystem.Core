@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WalletSystem.Core/WalletSystem.Core.csproj" />
+  <Project Path="WalletSytem.ConsoleApp/WalletSytem.ConsoleApp.csproj" />
+</Solution>
